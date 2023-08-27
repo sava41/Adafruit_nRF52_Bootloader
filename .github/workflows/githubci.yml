@@ -48,6 +48,7 @@ jobs:
           - 'nRF52840_connect_kit'
           - 'nrf52840_m2'
           - 'ohs2020_badge'
+          - 'orb69'
           - 'particle_argon'
           - 'particle_boron'
           - 'particle_xenon'
